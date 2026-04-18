@@ -8,16 +8,16 @@ export default function Footer() {
           target="_blank"
           className="text-blue-600 hover:underline"
         >
-          Rathan Kumar
+          Subham  Kumar das
         </a>
       </p>
 
       <div className="flex flex-col items-center gap-1 mt-2">
         <a
-          href="mailto:developer.rathan@gmail.com"
+          href="mailto:developer.subhamkvgms112@gmail.com"
           className="text-blue-600 hover:underline"
         >
-          developer.rathan@gmail.com{" "}
+          subhamkvgms112@gmail.com{" "}
         </a>
 
         <span className="flex items-center gap-1 text-gray-500 text-sm">
